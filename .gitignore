@@ -1,3 +1,9 @@
+# TeX stuff
+*.dvi
+*.log
+*.pdf
+*.*~
+
 # Prerequisites
 *.d
 
